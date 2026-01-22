@@ -12,7 +12,7 @@
           }
           
           if (e.key == "ArrowLeft") {
-              window.location.href = 'custom-errors';
+              window.location.href = 'recover';
           }
           
           

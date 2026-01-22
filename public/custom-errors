@@ -17,7 +17,7 @@
           
           
           if (e.key == "ArrowRight") {
-              window.location.href = 'goroutines';
+              window.location.href = 'panic';
           }
           
       }
@@ -171,7 +171,7 @@ returns <code>false</code>.</p>
       
       
       <p class="next">
-        Next example: <a href="goroutines" rel="next">Goroutines</a>.
+        Next example: <a href="panic" rel="next">Panic</a>.
       </p>
       
 

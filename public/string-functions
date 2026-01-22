@@ -12,7 +12,7 @@
           }
           
           if (e.key == "ArrowLeft") {
-              window.location.href = 'recover';
+              window.location.href = 'sorting-by-functions';
           }
           
           

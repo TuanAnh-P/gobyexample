@@ -17,7 +17,7 @@
           
           
           if (e.key == "ArrowRight") {
-              window.location.href = 'panic';
+              window.location.href = 'string-functions';
           }
           
       }
@@ -175,7 +175,7 @@ doubt, <a href="testing-and-benchmarking">benchmark</a>!</p>
       
       
       <p class="next">
-        Next example: <a href="panic" rel="next">Panic</a>.
+        Next example: <a href="string-functions" rel="next">String Functions</a>.
       </p>
       
 

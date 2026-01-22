@@ -17,7 +17,7 @@
           
           
           if (e.key == "ArrowRight") {
-              window.location.href = 'string-functions';
+              window.location.href = 'goroutines';
           }
           
       }
@@ -174,7 +174,7 @@ panic and resumes in the deferred closure.</p>
       
       
       <p class="next">
-        Next example: <a href="string-functions" rel="next">String Functions</a>.
+        Next example: <a href="goroutines" rel="next">Goroutines</a>.
       </p>
       
 
